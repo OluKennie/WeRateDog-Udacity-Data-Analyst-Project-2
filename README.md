@@ -34,3 +34,19 @@ Convert doggo, flooter, pupper, puppo columns into one stage column in the tweet
 6. Timestamp were converted to datetime.
 7. Rows with missing values were removed.
 8. Variable types were change to appropriate.
+
+## Questions(5) were formulated and 4 visualization were generated
+
+__Questions__
+
+1. Are retweets and replies correlated?
+2. Statistics of Dog Stage and Ratings
+3. Which dogs are the top favorite dog?
+4. Which are the top dogs according to retweets?
+5. What's the distribution for the retweet count?
+ __Visualization__
+1. Heatmap of correlation between favorite count and retweet count
+2. Distribution of ratings
+3. Top favorite dog
+4. Distribution of Source
+Check out the insights and visualization (here)[https://github.com/OluKennie/WeRateDog-Udacity-Data-Analyst-Project-2/blob/main/act_report.ipynb]
