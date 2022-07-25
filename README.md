@@ -49,4 +49,4 @@ __Questions__
 2. Distribution of ratings
 3. Top favorite dog
 4. Distribution of Source
-Check out the insights and visualization (here)[https://github.com/OluKennie/WeRateDog-Udacity-Data-Analyst-Project-2/blob/main/act_report.ipynb]
+Check out the insights and visualization [here](https://github.com/OluKennie/WeRateDog-Udacity-Data-Analyst-Project-2/blob/main/act_report.ipynb)
