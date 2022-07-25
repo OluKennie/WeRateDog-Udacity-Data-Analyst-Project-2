@@ -17,9 +17,7 @@ data.describe()
 data.info() 
 data.duplicated() 
 data.value_counts()
-
 ```
-
 ## Cleaning
 This section contains the cleaning process performed on the datasets.
 
