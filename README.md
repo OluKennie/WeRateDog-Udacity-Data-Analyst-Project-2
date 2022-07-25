@@ -9,7 +9,16 @@ The dataset was gather through:
 3. Query of Twitter API tweet_json.txt
 
 ## Assessing Data
-The data were assessed both visually and programmatically to look for quality and tidiness issues. Programmatic Methods: data.head() data.describe() data.info() data.duplicated() data.value_counts()
+The data were assessed both visually and programmatically to look for quality and tidiness issues. 
+Programmatic Methods: 
+```
+data.head() 
+data.describe() 
+data.info() 
+data.duplicated() 
+data.value_counts()
+
+```
 
 ## Cleaning
 This section contains the cleaning process performed on the datasets.
